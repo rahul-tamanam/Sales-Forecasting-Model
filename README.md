@@ -32,13 +32,8 @@ The following models were built and evaluated:
 
 ## 📁 Files Included
 - `Sales_Forecast_Excel.xlsx` – complete workbook with raw data, transformed inputs, forecasting models, and visuals
-- Screenshots (optional: add as PNG/JPEG in a `/screenshots` folder)
+- Screenshots
 - This `README.md`
-
-## 🔗 Future Work / Extensions
-- Automate parameter tuning with Excel VBA or Python
-- Apply models to monthly or weekly data
-- Integrate external drivers (e.g., marketing spend, economic indicators)
 
 ## 🧠 Learnings
 This project deepened my understanding of time series forecasting concepts including trend modeling, seasonality, smoothing techniques, and the trade-offs between additive vs. multiplicative seasonality in business forecasting.
